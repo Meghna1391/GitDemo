@@ -7,6 +7,9 @@ public class SeleniumTest {
 	@Test
 	public void browserTesting() {
 		System.out.println("browserTesting");
+		System.out.println("Web Testing");
+		System.out.println("mobile Testing");
+
 	}
 	
 	@Test
