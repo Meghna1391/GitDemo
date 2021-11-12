@@ -13,5 +13,15 @@ public class AppiumTest {
 	public void IOSApp() {
 		System.out.println("IOSApp");
 	}
+	
+	@Test
+	public void WebApp() {
+		System.out.println("webApp");
+	}
+	
+	@Test
+	public void WebApp1() {
+		System.out.println("webApp");
+	}
 
 }

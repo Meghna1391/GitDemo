@@ -15,6 +15,22 @@ public class SeleniumTest {
 	@Test
 	public void uiElements() {
 		System.out.println("uiElements");
+		System.out.println("uiElements1");
+
+	}
+	
+	@Test
+	public void WebElementofHomepage() {
+		System.out.println("Web Element of homepage");
+		System.out.println("Web Element of homepage1");
+
+	}
+	
+	@Test
+	public void uiElementsOfLoginpage() {
+		System.out.println("uiElements of login page");
+		System.out.println("uiElements of login page");
+
 	}
 
 }
